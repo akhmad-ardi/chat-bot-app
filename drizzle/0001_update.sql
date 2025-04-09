@@ -1,0 +1,1 @@
+ALTER TABLE `responses` RENAME TO `messages`;
