@@ -1,19 +1,26 @@
 {
   "version": "7",
-  "dialect": "sqlite",
+  "dialect": "mysql",
   "entries": [
     {
       "idx": 0,
-      "version": "6",
-      "when": 1744096047573,
-      "tag": "0000_overjoyed_frog_thor",
+      "version": "5",
+      "when": 1744213829630,
+      "tag": "0000_classy_loners",
       "breakpoints": true
     },
     {
       "idx": 1,
-      "version": "6",
-      "when": 1744099231491,
-      "tag": "0001_update",
+      "version": "5",
+      "when": 1744214245981,
+      "tag": "0001_gigantic_the_santerians",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1744216427667,
+      "tag": "0002_wooden_marvex",
       "breakpoints": true
     }
   ]

@@ -1,7 +1,9 @@
-export default function page() {
+import { SingUpForm } from './_components/sign-up-form';
+
+export default async function page() {
   return (
     <>
-      <h1>Sign Up</h1>
+      <SingUpForm />
     </>
   );
 }
